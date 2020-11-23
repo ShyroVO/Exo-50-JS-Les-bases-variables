@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38d37efc-d528-44f1-8dad-c6ad0eaaf9ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exo 1/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo 2/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo 3/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo 4/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 1/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 2/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 3/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 4/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +19,14 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,9 +37,23 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\UPTO\Desktop\GitHub\Exo-50-JS-Les-bases-variables\exo 1" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -37,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605785252556</updated>
       <workItem from="1605785254971" duration="300000" />
+      <workItem from="1606125386466" duration="2650000" />
     </task>
     <servers />
   </component>
@@ -53,5 +81,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
